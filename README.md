@@ -1,37 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬 Next.js Movie App
 
-## Getting Started
+Modern Next.js mimarisi kullanılarak geliştirilmiş, film listeleme ve keşif odaklı bir web uygulamasıdır.
+Proje; performans, SEO uyumluluğu ve sürdürülebilir frontend yapısı hedeflenerek oluşturulmuştur.
 
-First, run the development server:
+Bu uygulamada amaç yalnızca film listelemek değil; gerçek projelerde kullanılan Next.js + React yaklaşımlarını, temiz kod prensipleriyle hayata geçirmektir.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Özellikler
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Film listeleme ve detay sayfaları
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Dinamik routing (Next.js)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Harici API üzerinden veri çekme
 
-## Learn More
+SEO uyumlu sayfa yapısı
 
-To learn more about Next.js, take a look at the following resources:
+Responsive ve modern kullanıcı arayüzü
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Component bazlı frontend mimarisi
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧰 Kullanılan Teknolojiler
 
-## Deploy on Vercel
+Next.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+React
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# movieapp
+JavaScript (ES6+)
+
+TailwindCSS
+
+REST API Entegrasyonu
+
+## 🧠 Teknik Detaylar
+
+Next.js Routing Sistemi
+
+Dinamik route’lar ile film detay sayfaları
+
+Client-Side Data Fetching
+
+API üzerinden asenkron veri yönetimi
+
+Component Bazlı Mimari
+
+Tekrar kullanılabilir ve okunabilir UI bileşenleri
+
+SEO Odaklı Yapı
+
+Next.js’in sunduğu sayfa optimizasyon avantajları
+
+Responsive Tasarım
+
+Mobil, tablet ve masaüstü uyumlu layout
+
+## 📂 Proje Yapısı (Özet)
+/app | /pages
+/components
+/services
+/styles
+/public
+
+
+components → UI bileşenleri
+
+services → API çağrıları
+
+pages / app → Sayfa & routing yapısı
+
+public → Statik dosyalar
+
+## 🎯 Bu Proje ile Kazanımlar
+
+Next.js ile gerçek dünya frontend mimarisi
+
+JavaScript (ES6+) ile modern React geliştirme
+
+API tabanlı veri akışı yönetimi
+
+SEO ve performans odaklı sayfa yapıları
+
+Clean code ve ölçeklenebilir klasörleme
+
+# EKRAN GÖRÜNTÜSÜ
+![EkranKayd2026-01-08003535-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/03f9a28b-7fc4-4e11-95ca-2c0bb6dc6f0c)
+
